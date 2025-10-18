@@ -124,7 +124,13 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-Built with ❤️ by the MindTurtle team
+Built with ❤️ by the MindTurtle team - "" BLUEROSE ""
+
+S.Prashanth - Lead
+P.Uzma Anjum
+R.NIshith Krishnan
+B.Teja Kumar
+
 =======
 # MindTurtle
 >>>>>>> 2b9be2f45e97c5add6c4faef63bb9a7bed443520
